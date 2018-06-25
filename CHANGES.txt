@@ -1,0 +1,8 @@
+[0.1.0]
+Initial realease
+
+[0.1.1]
+Fix termcolor version into setup.py 'termcolor>=1.1.0'
+
+[0.1.2]
+Fix docker version into setup.py 'docker>=3.4.0'
