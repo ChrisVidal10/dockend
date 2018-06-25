@@ -1,8 +1,18 @@
 [0.1.0]
-Initial realease
+- Initial realease
 
 [0.1.1]
-Fix termcolor version into setup.py 'termcolor>=1.1.0'
+- Fix termcolor version into setup.py 'termcolor>=1.1.0'
 
 [0.1.2]
-Fix docker version into setup.py 'docker>=3.4.0'
+- Fix docker version into setup.py 'docker>=3.4.0'
+
+[0.1.3]
+- Fix setup.py
+- Fix docker version into setup.py 'docker>=3.4.0'
+
+[0.2.0]
+- Improvements in cprint labels
+
+[0.2.1]
+- Add version for 'dockend --version

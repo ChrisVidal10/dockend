@@ -1,1 +1,1 @@
-name = "dockend.py"
+import dockend
